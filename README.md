@@ -170,7 +170,7 @@ You should have seen what changes need to be staged, staged them, commited your 
 One more time
 
 What do you want to program when you graduate?
-> What do you want to program? Replace this and save
+> What do you want to program? Web Developer
 
 Then
 ```
